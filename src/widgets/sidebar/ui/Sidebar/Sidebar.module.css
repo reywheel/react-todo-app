@@ -1,0 +1,17 @@
+.wrapper {
+  height: 100%;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+  border-right: #e1e1e1 solid 2px;
+}
+
+.user {
+  margin-bottom: 8px;
+  cursor: pointer;
+}
+
+.spinner {
+  margin: auto auto;
+}

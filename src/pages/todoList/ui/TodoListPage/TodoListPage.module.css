@@ -1,0 +1,29 @@
+.wrapper {
+  height: 100%;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+}
+
+.heading {
+  margin-bottom: 16px;
+}
+
+.spinner {
+  margin: auto auto;
+}
+
+.actions {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 16px;
+}
+
+.todoList {
+  overflow-y: auto;
+  padding: 4px;
+}
+
+.todo {
+  margin-bottom: 8px;
+}
